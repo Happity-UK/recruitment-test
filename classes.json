@@ -15,7 +15,8 @@
     "class_capacity": 10,
     "spaces_available": 6,
     "min_age": 3,
-    "max_age": 12
+    "max_age": 12,
+    "class_image": "https://www.happity.co.uk/assets/revamp/pictures/categories/Baby_Yoga-a809b6e24ae5b7eaee128ffd749dfb6e10dc87c96981129c0789285f63a4b697.png"
   },
   {
     "class_name": "Toddler Music & Movement",
@@ -33,7 +34,8 @@
     "class_capacity": 12,
     "spaces_available": 9,
     "min_age": 12,
-    "max_age": 24
+    "max_age": 24,
+    "class_image": "https://www.happity.co.uk/assets/revamp/pictures/categories/STEM-565f3e1d570cd01be5ae24ccd6f427d186b632274f808834707276a352880557.png"
   },
   {
     "class_name": "Preschool Story & Drama",
@@ -51,7 +53,8 @@
     "class_capacity": 15,
     "spaces_available": 11,
     "min_age": 24,
-    "max_age": 36
+    "max_age": 36,
+    "class_image": "https://www.happity.co.uk/assets/revamp/pictures/categories/sensory-a97dfeb2037b18adb0320bd8d9360bc045836ae33f2cd5076742ce59a985fecc.jpg"
   },
   {
     "class_name": "Little Movers & Groovers",
@@ -69,7 +72,8 @@
     "class_capacity": 10,
     "spaces_available": 8,
     "min_age": 18,
-    "max_age": 30
+    "max_age": 30,
+    "class_image": "https://www.happity.co.uk/assets/revamp/pictures/categories/Swimming_Lessons-1e53b246aeadd8fb27a9fda35ba4bf95002585cc12bc4d6eb1330f2013b4da13.png"
   },
   {
     "class_name": "Preschool Creative Arts",
@@ -87,7 +91,8 @@
     "class_capacity": 12,
     "spaces_available": 7,
     "min_age": 30,
-    "max_age": 48
+    "max_age": 48,
+    "class_image": "https://www.happity.co.uk/assets/revamp/pictures/categories/Dad_Activities-bdc49cdc509e463223f6baac117f29c6dbc816116a7e0b2c10d89f039e32f2f7.png"
   },
   {
     "class_name": "Baby Sign Language",
@@ -105,7 +110,8 @@
     "class_capacity": 8,
     "spaces_available": 5,
     "min_age": 6,
-    "max_age": 18
+    "max_age": 18,
+    "class_image": "https://www.happity.co.uk/assets/revamp/pictures/categories/Breastfeeding-03cacb3bc73f35b246e7fa2535d4284c4a67ee475a87ac567dc69078c57d86a0.png"
   },
   {
     "class_name": "Preschool Science & Discovery",
@@ -123,7 +129,8 @@
     "class_capacity": 10,
     "spaces_available": 4,
     "min_age": 36,
-    "max_age": 60
+    "max_age": 60,
+    "class_image": "https://www.happity.co.uk/assets/revamp/pictures/categories/Dance-5593a184ea35dbfd3ec6b5c284cc7796a0be63b4edc70354d2d66482a6f66df0.png"
   },
   {
     "class_name": "Toddler Social Playgroup",
@@ -141,7 +148,8 @@
     "class_capacity": 15,
     "spaces_available": 12,
     "min_age": 20,
-    "max_age": 36
+    "max_age": 36,
+    "class_image": "https://www.happity.co.uk/assets/revamp/pictures/categories/Arts_Crafts-7e9ecde3de661a5a5cd2515964d86dbca12ced1a6f9a81bb7f7a5f180a043f12.png"
   },
   {
     "class_name": "Preschool Rhythmic Play",
@@ -159,7 +167,8 @@
     "class_capacity": 12,
     "spaces_available": 9,
     "min_age": 28,
-    "max_age": 48
+    "max_age": 48,
+    "class_image": "https://www.happity.co.uk/assets/revamp/pictures/categories/Storytime-2a79551e2005b7dd7da7792aa5e866f656f9d5ac1bffb83dab4cbfca2a35e504.png"
   },
   {
     "class_name": "Baby Massage & Wellbeing",
@@ -177,7 +186,8 @@
     "class_capacity": 8,
     "spaces_available": 5,
     "min_age": 2,
-    "max_age": 10
+    "max_age": 10,
+    "class_image": "https://www.happity.co.uk/assets/revamp/pictures/categories/Baby_Massage-0f892fa741bbbe9eb3a9754a41ed3fcadfd35988ce2601f4c09e71ee629541c0.png"
   },
   {
     "class_name": "Preschool Outdoor Exploration",
@@ -195,7 +205,8 @@
     "class_capacity": 14,
     "spaces_available": 10,
     "min_age": 32,
-    "max_age": 54
+    "max_age": 54,
+    "class_image": "https://www.happity.co.uk/assets/revamp/pictures/categories/Postnatal_Pilates_Yoga-e015eaa8fd634ff75bdd3342ee2dbf3edb7f8efdfd6cf8dbbd279ab514ecfc9f.png"
   },
   {
     "class_name": "Toddler Storytelling & Rhymes",
@@ -213,7 +224,8 @@
     "class_capacity": 10,
     "spaces_available": 7,
     "min_age": 15,
-    "max_age": 27
+    "max_age": 27,
+    "class_image": "https://www.happity.co.uk/assets/revamp/pictures/categories/Postnatal_Pilates_Yoga-e015eaa8fd634ff75bdd3342ee2dbf3edb7f8efdfd6cf8dbbd279ab514ecfc9f.png"
   },
   {
     "class_name": "Preschool Construction Play",
@@ -231,7 +243,8 @@
     "class_capacity": 12,
     "spaces_available": 8,
     "min_age": 26,
-    "max_age": 42
+    "max_age": 42,
+    "class_image": "https://www.happity.co.uk/assets/revamp/pictures/categories/foreign_languages-0c307f81607ba16d34ed111e2b73d2b0e6329280fb485b89ca27eaa07f8b1be6.png"
   },
   {
     "class_name": "Baby Yoga & Relaxation",
@@ -249,7 +262,8 @@
     "class_capacity": 8,
     "spaces_available": 4,
     "min_age": 4,
-    "max_age": 16
+    "max_age": 16,
+    "class_image": "https://www.happity.co.uk/assets/revamp/pictures/categories/Baby_First_Aid-3d5de1253627c1a047ff6915c60ff47f87b5492c0d97a97ec4c5ca2ae8a1f1c2.png"
   },
   {
     "class_name": "Preschool Drama & Imagination",
@@ -267,7 +281,8 @@
     "class_capacity": 10,
     "spaces_available": 6,
     "min_age": 34,
-    "max_age": 58
+    "max_age": 58,
+    "class_image": "https://www.happity.co.uk/assets/revamp/pictures/categories/Drama_Theatre-6adc2d6cdf9a73547df93741196473b0e29dea6008b8722476fa8641284b6a53.png"
   },
   {
     "class_name": "Baby Music & Sensory",
@@ -285,7 +300,8 @@
     "class_capacity": 12,
     "spaces_available": 10,
     "min_age": 6,
-    "max_age": 18
+    "max_age": 18,
+    "class_image": "https://www.happity.co.uk/assets/revamp/pictures/categories/Gym_Gymnastics-73007c3aea32ebbb86cc0b7a81864621e016a090d8887f777e6c8e28d28b9341.png"
   },
   {
     "class_name": "Preschool Creative Writing",
@@ -303,7 +319,8 @@
     "class_capacity": 10,
     "spaces_available": 8,
     "min_age": 30,
-    "max_age": 54
+    "max_age": 54,
+    "class_image": "https://www.happity.co.uk/assets/revamp/pictures/categories/Football-fb82cd4a06b0343d1d567e0642d3e14f2346717b5b4775319aacb8b3ca40073e.png"
   },
   {
     "class_name": "Toddler Creative Play",
@@ -321,7 +338,8 @@
     "class_capacity": 16,
     "spaces_available": 13,
     "min_age": 18,
-    "max_age": 30
+    "max_age": 30,
+    "class_image": "https://www.happity.co.uk/assets/revamp/pictures/categories/Toddler_Group-c5d726f935a1b6919603d921952489379ed53e0312e64525fc882feb694a996f.png"
   },
   {
     "class_name": "Preschool Outdoor Art",
@@ -339,7 +357,8 @@
     "class_capacity": 12,
     "spaces_available": 9,
     "min_age": 36,
-    "max_age": 60
+    "max_age": 60,
+    "class_image": "https://www.happity.co.uk/assets/revamp/pictures/categories/Forest_School_Outdoor-f505dbef9f3c7445910199869753b5d116ce09402bf6f86b45bd7330f5c45675.png"
   },
   {
     "class_name": "Baby and Toddler Movement",
@@ -357,6 +376,7 @@
     "class_capacity": 18,
     "spaces_available": 15,
     "min_age": 10,
-    "max_age": 24
+    "max_age": 24,
+    "class_image": "https://www.happity.co.uk/assets/revamp/pictures/categories/Postnatal_Fitness-535a75cf58c2fafbbffabf5d19f8bd9cbe4acb1e3dfab350cbed0ed465723df6.png"
   }
 ]
